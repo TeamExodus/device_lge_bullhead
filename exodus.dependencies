@@ -1,6 +1,6 @@
 [
   {
-    "repository": "kernel_lge_bullhead",
+    "repository": "wSedlacek/kernel_lge_bullhead",
     "target_path": "kernel/lge/bullhead"
   }
 ]
