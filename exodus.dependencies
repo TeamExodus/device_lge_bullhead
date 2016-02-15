@@ -1,6 +1,6 @@
 [
   {
-    "repository": "wSedlacek/kernel_lge_bullhead",
+    "repository": "TeamExodus/kernel_lge_bullhead",
     "target_path": "kernel/lge/bullhead"
   }
 ]
