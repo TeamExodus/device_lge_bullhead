@@ -2,5 +2,9 @@
   {
     "repository": "TeamExodus/kernel_lge_bullhead",
     "target_path": "kernel/lge/bullhead"
+  },
+  {
+    "repository": "TeamExodus/vendor_lge_bullhead",
+    "target_path": "vendor/lge/bullhead"
   }
 ]
